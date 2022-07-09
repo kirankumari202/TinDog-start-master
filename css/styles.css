@@ -175,3 +175,6 @@ padding: 0 0 4.5rem;
   .icon:hover{
 	color: #ff4c68;
   }
+i{
+	padding-right: 10px;
+}
